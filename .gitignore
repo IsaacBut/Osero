@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+ipch/
+*.ipch
+*.pdb
+*.ilk
+*.VC.db
+*.VC.opendb
+
+# build
+Debug/
+Release/
+x64/
+x86/
+
+# temporary
+*.log
+*.tmp
